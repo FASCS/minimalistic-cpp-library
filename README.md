@@ -1,5 +1,8 @@
 # Minimalistic c++ library
 Little C++ library which can do simple operations with Int and Float numbers, also convert Int (0-false; 1-true) to Boolean and back  
+
+## Defines
+- pi = 3.14159265359
 ## Functions
 - AddInt(int, int)
 - SubtractInt(int, int)
@@ -13,3 +16,4 @@ Little C++ library which can do simple operations with Int and Float numbers, al
 - DivideFloat(float, float)
 - IntToBoolean(int)
 - BooleanToInt(bool)
+- FactorialInt(int)
