@@ -1,5 +1,5 @@
 # Minimalistic c++ library
-Little C++ library which can do simple operations with Int and Float numbers, also convert Int (0-false; 1-true) to Boolean and back  
+Little C++ library which can do simple operations with Int and Float numbers, also convert Int (0-false; 1-true) to Boolean and back.  
 
 ## Defines
 - pi = 3.14159265359
